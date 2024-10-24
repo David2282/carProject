@@ -8,7 +8,6 @@ package com.mycompany.carproject;
  *
  * @author David Farmer
  */
-//I own
 public class Wheel {
     private int tirePressure; //in psi
     private int diameter; //size of the wheel in inches
