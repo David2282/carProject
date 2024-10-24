@@ -7,8 +7,9 @@ package com.mycompany.carproject;
 /**
  *
  * @author David Farmer
- */
+ */ 
 public class Wheel {
+    //private int final addACommentSomewhere;
     private int tirePressure; //in psi
     private int diameter; //size of the wheel in inches
     private int condition; //wear percentage between 0-100
